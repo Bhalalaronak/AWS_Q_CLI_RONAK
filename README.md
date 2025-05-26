@@ -2,8 +2,6 @@
 
 A classic Snake and Ladder board game implemented with Python and Pygame.
 
-![Snake and Ladder Game](https://github.com/username/snake-and-ladder/raw/main/screenshot.png)
-
 ## Features
 
 - Interactive graphical user interface built with Pygame
@@ -57,8 +55,6 @@ python simple_snake_ladder_gui.py
 ## Project Structure
 
 - `simple_snake_ladder_gui.py`: Main game file with GUI implementation
-- `snake_and_ladder.py`: Console-based version of the game
-- `snake_and_ladder_gui.py`: Advanced GUI version with animations
 
 ## Customization
 
